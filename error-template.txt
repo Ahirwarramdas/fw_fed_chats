@@ -6,36 +6,31 @@ IF YOU NEED HELP WITH THIS, PLEASE USE THE #weneedyourrepos COMMAND FOR HELP FRO
 THE BOT
 
 
-Device Model Number: <IE: G025N>
+Device Model Number: CPH2381
 
-Device Shipping Name: <IE: GOOGLE PIXEL 4A>
+Device Shipping Name: ONEPLUS NORD CE 2 LITE 
 
-Device Codename: <IE: SUNFISH>
+Device Codename: CPH2381
 
-Stock Android Version: <OEM ANDROID VERSION>
+Stock Android Version: 12
 
-Android Version You Are Building: <VERSION OF ANDROID THAT YOU ARE BUILDING>
-                                  <ANDROID VERSIONS 11 AND BELOW ARE NOT SUPPORTED>
+Android Version You Are Building: 13
+                            
 
-ROM Your Are Building: <ROM NAME>
+ROM Your Are Building: lineage os 20.0
 
-ROM Github Organization: <LINK TO THEIR GITHUB ORGANIZATION>
+ROM Github Organization: https://github.com/LineageOS
 
-Device Repo: <THIS MUST BE FROM YOUR OWN GITHUB WITH ALL CURRENT CHANGES PUSHED>
-             <BRANCH YOU ARE USING>
+Device Repo: https://github.com/Ahirwarramdas/android_device_oneplus_CPH2381.git
 
-Kernel Repo: <THIS MUST BE FROM YOUR OWN GITHUB WITH ALL CURRENT CHANGES PUSHED>
-             <BRANCH YOU ARE USING>
+Kernel Repo: https://github.com/ronitkrshah/android_device_oneplus_CPH2381-kernel.git 
+              using prebuilt kernel
 
-Vendor Repo: <THIS MUST BE FROM YOUR OWN GITHUB WITH ALL CURRENT CHANGES PUSHED>
-             <BRANCH YOU ARE USING>
+Vendor Repo: using prebuilt vendor 
 
-Other Repos: <MANIFESTS, HAL TREES, COMMON REPOS, & ETC>
-             <THESE MUST BE FROM YOUR OWN GITHUB WITH ALL CURRENT CHANGES PUSHED>
-             <BRANCH(ES) YOU ARE USING>
-             <MANIFESTS, HAL TREES, COMMON REPOS, & ETC>
 
-List Of Things You Have Tried To Do To Try And Resolve This Error: <IF THIS IS EMPTY, YOU WILL NOT BE HELPED. YOU MUST TRY TO RESOLVE YOUR ISSUE(S) ON YOUR OWN
+
+
                                                                     BEFORE YOU ASK FOR HELP HERE. SHOW YOUR WORK. THIS IS NON-NEGOTIABLE.>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
